@@ -1,7 +1,7 @@
 {
-  "version": 3,
-  "sha256": "9da96795c4277bc169267605cd341252117171254b11a9959c99d61494b5a128",
-  "notas": "v3 - prueba final auto-update (updater corregido + cache-buster)",
-  "tag": "v3",
+  "version": 4,
+  "sha256": "8e111c10bb1f954a76a600d76b40e04542056caef38d7865f24dfff512610131",
+  "notas": "v4 - clave protegida, historial de mesas y mostrador, tamano de mesas ajustable, fixes",
+  "tag": "v4",
   "exe": "CajaMeryJane.exe"
 }
