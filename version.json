@@ -1,7 +1,7 @@
 {
-  "version": 5,
-  "sha256": "928d14d891b93521437452306183c33ce2d721b6b821b6e2d0a61b11267d0650",
-  "notas": "v5 - calendario de fechas, historial mesas/mostrador, plano salon en tablet, clave en anulaciones, montos coma decimal, servidor multi-hilo anti-tildes",
-  "tag": "v5",
+  "version": 6,
+  "sha256": "be8e50ccfe6b307f6a97372f4f3e6a5eeeb533fa3ae1dd5064e6101382f662f5",
+  "notas": "v6 - historial mostrador con anular/reimprimir, mostrador con envio a delivery, tamano de letra configurable, boton buscar actualizacion en Acerca de",
+  "tag": "v6",
   "exe": "CajaMeryJane.exe"
 }
