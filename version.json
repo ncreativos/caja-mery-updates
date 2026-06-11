@@ -1,7 +1,7 @@
 {
-  "version": 1,
-  "sha256": "4cff8b0b3c37c315f56158fc38b70709f5ff0992e08a22ff787485e22057f4e0",
-  "notas": "Primera version exe - prueba de auto-update",
-  "tag": "v1",
+  "version": 2,
+  "sha256": "2cfdad6f1811ee3aae5b27ef4276397e656d63cc61c08b9d20e9e7c3e80e93ed",
+  "notas": "v2 - version visible en el titulo (prueba de auto-update)",
+  "tag": "v2",
   "exe": "CajaMeryJane.exe"
 }
