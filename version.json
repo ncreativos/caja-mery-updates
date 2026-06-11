@@ -1,7 +1,7 @@
 {
-  "version": 6,
-  "sha256": "be8e50ccfe6b307f6a97372f4f3e6a5eeeb533fa3ae1dd5064e6101382f662f5",
-  "notas": "v6 - historial mostrador con anular/reimprimir, mostrador con envio a delivery, tamano de letra configurable, boton buscar actualizacion en Acerca de",
-  "tag": "v6",
+  "version": 7,
+  "sha256": "9bc0c99ce00b4fc742492786d55a207133d7967387c8f8bb013d2470e22cc65f",
+  "notas": "v7 - encargada responsable obligatoria en pases a caja externa, propinas por transferencia (no tocan caja, suman al empleado)",
+  "tag": "v7",
   "exe": "CajaMeryJane.exe"
 }
