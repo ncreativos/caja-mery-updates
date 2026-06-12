@@ -1,7 +1,7 @@
 {
-  "version": 7,
-  "sha256": "9bc0c99ce00b4fc742492786d55a207133d7967387c8f8bb013d2470e22cc65f",
-  "notas": "v7 - encargada responsable obligatoria en pases a caja externa, propinas por transferencia (no tocan caja, suman al empleado)",
-  "tag": "v7",
+  "version": 8,
+  "sha256": "67b56591a341d03c595b95f6d6b08d7f284985b7c55a3a580bf7664446ebf35b",
+  "notas": "v8 - marca de cambio con color en delivery (PC y tablet): un toque marca, otro desmarca, sin importes y sin tocar la caja",
+  "tag": "v8",
   "exe": "CajaMeryJane.exe"
 }
