@@ -1,7 +1,7 @@
 {
-  "version": 11,
-  "sha256": "990dfea473dbb92211eb4a23a5f56e9f6155c7743742c2a872dd01ecd54e3ea8",
-  "notas": "v11: el nombre de la sucursal en tickets, pies de PDF y Acerca de ahora toma el de Configuracion general (nombre_local) en vez de estar fijo en Mery Jane Guernica",
-  "tag": "v11",
+  "version": 12,
+  "sha256": "65d5d7a3385d66dafc4c1252c9418896aea56f3448cf468707c74a05a86b4a7b",
+  "notas": "v12: updater robusto - chequeo de version sin depender del cache del CDN, y auto-reintento al actualizar (si el onefile no carga la DLL por el antivirus, mata el proceso y reintenta solo hasta levantar limpio)",
+  "tag": "v12",
   "exe": "CajaMeryJane.exe"
 }
