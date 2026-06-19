@@ -1,7 +1,7 @@
 {
-  "version": 8,
-  "sha256": "67b56591a341d03c595b95f6d6b08d7f284985b7c55a3a580bf7664446ebf35b",
-  "notas": "v8 - marca de cambio con color en delivery (PC y tablet): un toque marca, otro desmarca, sin importes y sin tocar la caja",
-  "tag": "v8",
+  "version": 9,
+  "sha256": "8df21febdcc0c4cf876251fed248e5f6a9266f9ba9b0ffe0300e8bb4690048dd",
+  "notas": "v9: arregla bug de fecha congelada (turnos/ventas quedaban con fecha vieja), sincroniza saldo inicial apertura<->turno, y botones PediFacil visibles en pantallas 1366x768",
+  "tag": "v9",
   "exe": "CajaMeryJane.exe"
 }
