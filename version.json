@@ -1,7 +1,7 @@
 {
-  "version": 9,
-  "sha256": "8df21febdcc0c4cf876251fed248e5f6a9266f9ba9b0ffe0300e8bb4690048dd",
-  "notas": "v9: arregla bug de fecha congelada (turnos/ventas quedaban con fecha vieja), sincroniza saldo inicial apertura<->turno, y botones PediFacil visibles en pantallas 1366x768",
-  "tag": "v9",
+  "version": 10,
+  "sha256": "3057822d0e121cca7e27dcf4208d47cfdfc16f96230cb30f226faa38e8abd1ad",
+  "notas": "v10: actualizacion mas suave - reintentos silenciosos antes del cartel de servidor (modo cliente) y mas margen en el swap para evitar el error de DLL",
+  "tag": "v10",
   "exe": "CajaMeryJane.exe"
 }
