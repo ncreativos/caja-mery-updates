@@ -1,7 +1,7 @@
 {
-  "version": 10,
-  "sha256": "3057822d0e121cca7e27dcf4208d47cfdfc16f96230cb30f226faa38e8abd1ad",
-  "notas": "v10: actualizacion mas suave - reintentos silenciosos antes del cartel de servidor (modo cliente) y mas margen en el swap para evitar el error de DLL",
-  "tag": "v10",
+  "version": 11,
+  "sha256": "990dfea473dbb92211eb4a23a5f56e9f6155c7743742c2a872dd01ecd54e3ea8",
+  "notas": "v11: el nombre de la sucursal en tickets, pies de PDF y Acerca de ahora toma el de Configuracion general (nombre_local) en vez de estar fijo en Mery Jane Guernica",
+  "tag": "v11",
   "exe": "CajaMeryJane.exe"
 }
