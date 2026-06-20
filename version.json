@@ -1,7 +1,7 @@
 {
-  "version": 12,
-  "sha256": "65d5d7a3385d66dafc4c1252c9418896aea56f3448cf468707c74a05a86b4a7b",
-  "notas": "v12: updater robusto - chequeo de version sin depender del cache del CDN, y auto-reintento al actualizar (si el onefile no carga la DLL por el antivirus, mata el proceso y reintenta solo hasta levantar limpio)",
-  "tag": "v12",
+  "version": 13,
+  "sha256": "8c1b254ebb6a6ed170cdcb6cd55bbe27480f1f4a90c517c3bb4e15b43134e13a",
+  "notas": "v13: Arreglo definitivo de fecha congelada (todas las altas usan la fecha del turno: mostrador, retiro, mesas, gastos, liquidaciones). Respaldo de la base completa al cerrar turno por Telegram + reinyeccion de base corregida al abrir el proximo turno.",
+  "tag": "v13",
   "exe": "CajaMeryJane.exe"
 }
