@@ -1,7 +1,7 @@
 {
-  "version": 13,
-  "sha256": "8c1b254ebb6a6ed170cdcb6cd55bbe27480f1f4a90c517c3bb4e15b43134e13a",
-  "notas": "v13: Arreglo definitivo de fecha congelada (todas las altas usan la fecha del turno: mostrador, retiro, mesas, gastos, liquidaciones). Respaldo de la base completa al cerrar turno por Telegram + reinyeccion de base corregida al abrir el proximo turno.",
-  "tag": "v13",
+  "version": 14,
+  "sha256": "15fe615e3bf907e389994b47d66a0ee1d85ef611da18e026c5ce8c39cc01f6e2",
+  "notas": "v14: caja externa siempre con turno (no mas 'sin turno'); pases/ingresos/retiros de caja externa visibles en el Historial; boton Reactivar empleados; comando Telegram /agregar_id <id> (solo master) para habilitar chats.",
+  "tag": "v14",
   "exe": "CajaMeryJane.exe"
 }
