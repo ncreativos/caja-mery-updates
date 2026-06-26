@@ -1,7 +1,7 @@
 {
-  "version": 14,
-  "sha256": "15fe615e3bf907e389994b47d66a0ee1d85ef611da18e026c5ce8c39cc01f6e2",
-  "notas": "v14: caja externa siempre con turno (no mas 'sin turno'); pases/ingresos/retiros de caja externa visibles en el Historial; boton Reactivar empleados; comando Telegram /agregar_id <id> (solo master) para habilitar chats.",
-  "tag": "v14",
+  "version": 15,
+  "sha256": "020a9ba0db38ecb1e3d3d45ff220ec48e64ca64302ef29de455bb657d99d8adb",
+  "notas": "v15: turnos de noche que cruzan las 00:00 ya no desarman la balanza del dia siguiente; medio de pago en propinas; balanza por turno (Reportes); detalle de propinas con medio y desglose de pagos mixtos en los movimientos del Historial; balanza/cierre de Telegram muestra propinas por medio.",
+  "tag": "v15",
   "exe": "CajaMeryJane.exe"
 }
