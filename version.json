@@ -1,7 +1,7 @@
 {
-  "version": 17,
-  "sha256": "a15ffaa8ffa185e256243c4b69edc149b21293bb2eb7a47975c6cb0c13808b1d",
-  "notas": "v17: tablero web con historial completo (balances, turnos pasados y movimientos) + caja ciega compartida por sucursal + codigo Telegram para desactivarla",
-  "tag": "v17",
+  "version": 18,
+  "sha256": "2feabdb31e69ae6f73b21c69034cc36688ce5233961de694e304a2cb02b5d4c4",
+  "notas": "v18: web con detalle completo de movimientos (gastos, adelantos, propinas, liquidaciones, caja externa), saldo inicial y saldo de caja externa para retirar",
+  "tag": "v18",
   "exe": "CajaMeryJane.exe"
 }
