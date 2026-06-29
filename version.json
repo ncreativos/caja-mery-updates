@@ -1,7 +1,7 @@
 {
-  "version": 16,
-  "sha256": "b2f97cdd02169ef9faa80d94fd68227110aebcdc932c3482501c0e61074550d2",
-  "notas": "v16: detalle de movimientos en el tablero web + proteccion de dashboard_config.json en el actualizador",
-  "tag": "v16",
+  "version": 17,
+  "sha256": "a15ffaa8ffa185e256243c4b69edc149b21293bb2eb7a47975c6cb0c13808b1d",
+  "notas": "v17: tablero web con historial completo (balances, turnos pasados y movimientos) + caja ciega compartida por sucursal + codigo Telegram para desactivarla",
+  "tag": "v17",
   "exe": "CajaMeryJane.exe"
 }
