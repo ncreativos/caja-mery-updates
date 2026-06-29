@@ -1,7 +1,7 @@
 {
-  "version": 18,
-  "sha256": "2feabdb31e69ae6f73b21c69034cc36688ce5233961de694e304a2cb02b5d4c4",
-  "notas": "v18: web con detalle completo de movimientos (gastos, adelantos, propinas, liquidaciones, caja externa), saldo inicial y saldo de caja externa para retirar",
-  "tag": "v18",
+  "version": 19,
+  "sha256": "4369f27c4169bf519e42dbe910e8c606526b4e9139cc3460ec0bbab06913d9aa",
+  "notas": "v19: control anti-faltante del saldo inicial (guarda lo que queda en caja al cerrar y alerta al master por Telegram si al abrir no coincide) + pase a caja externa funciona con caja ciega (a ciegas)",
+  "tag": "v19",
   "exe": "CajaMeryJane.exe"
 }
