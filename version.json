@@ -1,7 +1,7 @@
 {
-  "version": 19,
-  "sha256": "4369f27c4169bf519e42dbe910e8c606526b4e9139cc3460ec0bbab06913d9aa",
-  "notas": "v19: control anti-faltante del saldo inicial (guarda lo que queda en caja al cerrar y alerta al master por Telegram si al abrir no coincide) + pase a caja externa funciona con caja ciega (a ciegas)",
-  "tag": "v19",
+  "version": 20,
+  "sha256": "7e72c2c6cc344b8743914c76bc7fcef7b66bed99f9bd1b957449a574c1ca2760",
+  "notas": "v20: retiro de caja externa pide codigo del master por Telegram (autorizacion) + alerta de saldo inicial va a los chats del bot",
+  "tag": "v20",
   "exe": "CajaMeryJane.exe"
 }
