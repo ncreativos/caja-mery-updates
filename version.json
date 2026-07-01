@@ -1,7 +1,7 @@
 {
-  "version": 20,
-  "sha256": "7e72c2c6cc344b8743914c76bc7fcef7b66bed99f9bd1b957449a574c1ca2760",
-  "notas": "v20: retiro de caja externa pide codigo del master por Telegram (autorizacion) + alerta de saldo inicial va a los chats del bot",
-  "tag": "v20",
+  "version": 21,
+  "sha256": "937b50a95d8dfc409dabc49082a8dca5f78c93bcdfd07f12e3e75d2823059c13",
+  "notas": "v21: mesas del salon no se borran del plano (redibujado a prueba de fallos) + no se tilda en modo cliente (verificacion de servidor en segundo plano)",
+  "tag": "v21",
   "exe": "CajaMeryJane.exe"
 }
