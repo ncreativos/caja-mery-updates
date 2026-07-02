@@ -1,7 +1,7 @@
 {
-  "version": 27,
-  "sha256": "20e8239da948646c25042d73b762be367faf4f464aa46c65f35ce05622c5e75c",
-  "notas": "v27: se quita la cuenta corriente de empleados de la interfaz - ya no aparece Cta. Empleado como metodo de pago en mostrador ni mesas, ni el aviso al liquidar, ni el boton en Empleados (pedido del usuario)",
-  "tag": "v27",
+  "version": 28,
+  "sha256": "1145d50f4ce1b7ec79348a144abd0fa974341cc4013140aa5886b3e734422fb5",
+  "notas": "v28: los codigos de autorizacion (retiro de caja externa y desactivar caja ciega) ahora tambien llegan al chat de codigos configurado, en todos los locales - solo esos codigos, sin notificaciones ni comandos",
+  "tag": "v28",
   "exe": "CajaMeryJane.exe"
 }
