@@ -1,7 +1,7 @@
 {
-  "version": 22,
-  "sha256": "264f5a393671f0371c81b8ea4e3d97043865bf9e9b55f2dfd9e54076448bd8cd",
-  "notas": "v22: fechas operativas en tablet/extension (pedidos PediFacil, mesas y viajes ya no caen al dia calendario tras medianoche) + nueva web /mostrador para tomar pedidos desde el celular + cobro de mesa parsea montos formato argentino + mesas suman en Salon + teorico modo cliente igual al servidor + liquidaciones atomicas en red + mixtos en cuentas/ranking + indices DB + token opcional del servidor de datos",
-  "tag": "v22",
+  "version": 23,
+  "sha256": "71fad7a4e778d26bc73d6203ca21d33a11a7da14322ec902c54632775be848ba",
+  "notas": "v23: fix del updater - ya no quedan ventanas de consola haciendo ping durante la actualizacion (consola oculta) y si el exe viejo no se libera, el update aborta solo a los ~40s y lo vuelve a ofrecer en la proxima apertura (antes quedaba en loop infinito y habia que cerrar todo a mano)",
+  "tag": "v23",
   "exe": "CajaMeryJane.exe"
 }
