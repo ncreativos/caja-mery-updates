@@ -1,7 +1,7 @@
 {
-  "version": 21,
-  "sha256": "937b50a95d8dfc409dabc49082a8dca5f78c93bcdfd07f12e3e75d2823059c13",
-  "notas": "v21: mesas del salon no se borran del plano (redibujado a prueba de fallos) + no se tilda en modo cliente (verificacion de servidor en segundo plano)",
-  "tag": "v21",
+  "version": 22,
+  "sha256": "264f5a393671f0371c81b8ea4e3d97043865bf9e9b55f2dfd9e54076448bd8cd",
+  "notas": "v22: fechas operativas en tablet/extension (pedidos PediFacil, mesas y viajes ya no caen al dia calendario tras medianoche) + nueva web /mostrador para tomar pedidos desde el celular + cobro de mesa parsea montos formato argentino + mesas suman en Salon + teorico modo cliente igual al servidor + liquidaciones atomicas en red + mixtos en cuentas/ranking + indices DB + token opcional del servidor de datos",
+  "tag": "v22",
   "exe": "CajaMeryJane.exe"
 }
