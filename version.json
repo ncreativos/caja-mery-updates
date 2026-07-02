@@ -1,7 +1,7 @@
 {
-  "version": 28,
-  "sha256": "1145d50f4ce1b7ec79348a144abd0fa974341cc4013140aa5886b3e734422fb5",
-  "notas": "v28: los codigos de autorizacion (retiro de caja externa y desactivar caja ciega) ahora tambien llegan al chat de codigos configurado, en todos los locales - solo esos codigos, sin notificaciones ni comandos",
-  "tag": "v28",
+  "version": 29,
+  "sha256": "b825e00b1fcfeabd08f7ceb1a4f93790f0e2be0c4252ea75548f94874b652f29",
+  "notas": "v29: el chat fijo adicional ahora tambien recibe las notificaciones generales (ventas, cierres, avisos) de todos los locales, ademas de los codigos de autorizacion - sin poderes de master (no puede aprobar/revocar ni usar la comanda)",
+  "tag": "v29",
   "exe": "CajaMeryJane.exe"
 }
