@@ -1,7 +1,7 @@
 {
-  "version": 26,
-  "sha256": "a010d832ffa593eec9a11f57ffaa036782319a8d32ca9dff94cb8aa79275d06d",
-  "notas": "v26: barras de botones reacomodadas - la fecha y el selector de turno van en su propia fila, asi los botones (ej. Pedido Mostrador en Salon) ya no se salen de la pantalla en monitores de 1366px",
-  "tag": "v26",
+  "version": 27,
+  "sha256": "20e8239da948646c25042d73b762be367faf4f464aa46c65f35ce05622c5e75c",
+  "notas": "v27: se quita la cuenta corriente de empleados de la interfaz - ya no aparece Cta. Empleado como metodo de pago en mostrador ni mesas, ni el aviso al liquidar, ni el boton en Empleados (pedido del usuario)",
+  "tag": "v27",
   "exe": "CajaMeryJane.exe"
 }
