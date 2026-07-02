@@ -1,7 +1,7 @@
 {
-  "version": 23,
-  "sha256": "71fad7a4e778d26bc73d6203ca21d33a11a7da14322ec902c54632775be848ba",
-  "notas": "v23: fix del updater - ya no quedan ventanas de consola haciendo ping durante la actualizacion (consola oculta) y si el exe viejo no se libera, el update aborta solo a los ~40s y lo vuelve a ofrecer en la proxima apertura (antes quedaba en loop infinito y habia que cerrar todo a mano)",
-  "tag": "v23",
+  "version": 24,
+  "sha256": "9d824204bc83bd513cca5b1d557093afb1fcfc0224c0dbbafb90c375f04564f4",
+  "notas": "v24: cuenta corriente de empleados (modo de pago Cta. Empleado + aviso y saldado al liquidar + vista en Empleados) + selector de turno en todas las pestanas (auto / dia completo / turno puntual) + control anti-faltante mejorado en apertura (muestra lo que debia quedar, descuenta retiros post-cierre, resultado visible en el tablero web) + comanda del master por Telegram (/comanda con menu numerado, solo imprime)",
+  "tag": "v24",
   "exe": "CajaMeryJane.exe"
 }
