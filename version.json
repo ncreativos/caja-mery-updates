@@ -1,7 +1,7 @@
 {
-  "version": 25,
-  "sha256": "db3a8c031edbc34b42b25bbf8ec4f84742fbf77db7f8bb84015b098b38fc87b5",
-  "notas": "v25: cuenta corriente arreglada - el saldado se DESCUENTA del monto a liquidar (de la caja sale la diferencia, con confirmacion y cuenta en vivo), el desglose figura en la observacion de la liquidacion (historial, pestanas y Telegram) y los saldados aparecen en el historial unificado",
-  "tag": "v25",
+  "version": 26,
+  "sha256": "a010d832ffa593eec9a11f57ffaa036782319a8d32ca9dff94cb8aa79275d06d",
+  "notas": "v26: barras de botones reacomodadas - la fecha y el selector de turno van en su propia fila, asi los botones (ej. Pedido Mostrador en Salon) ya no se salen de la pantalla en monitores de 1366px",
+  "tag": "v26",
   "exe": "CajaMeryJane.exe"
 }
