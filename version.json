@@ -1,7 +1,7 @@
 {
-  "version": 29,
-  "sha256": "b825e00b1fcfeabd08f7ceb1a4f93790f0e2be0c4252ea75548f94874b652f29",
-  "notas": "v29: el chat fijo adicional ahora tambien recibe las notificaciones generales (ventas, cierres, avisos) de todos los locales, ademas de los codigos de autorizacion - sin poderes de master (no puede aprobar/revocar ni usar la comanda)",
-  "tag": "v29",
+  "version": 30,
+  "sha256": "957512f06196604facebe6057ac8b4f76c0ce5c5ff43f829f555b13b4007c260",
+  "notas": "v30: barras de botones con acomodo automatico en todas las pestanas - si no entran en el ancho de la pantalla, los botones pasan a una segunda fila en vez de quedar cortados (Ventas, Delivery, Salon, Gastos, Propinas, Empleados y Caja Externa)",
+  "tag": "v30",
   "exe": "CajaMeryJane.exe"
 }
