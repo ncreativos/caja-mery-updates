@@ -1,7 +1,7 @@
 {
-  "version": 31,
-  "sha256": "6ad9c757e64816abdc1dedf9c4b4dcb2f33071dabfb193625954b2d19c457fc1",
-  "notas": "v31 URGENTE: arregla los botones desaparecidos de v30 - las barras vuelven a filas fijas (2-3 filas cortas por pestana) que entran en cualquier pantalla; se elimino el acomodo dinamico que fallaba. ACTUALIZAR YA si estan en v30",
-  "tag": "v31",
+  "version": 32,
+  "sha256": "2ae0ae3da7efa19a7ac2f62866f1ab5a91a6d4940d24a92bbe6f90f1b3bd0c6f",
+  "notas": "v32: botones de Ventas en 2 filas, PediFacil como primer boton de Delivery, y Acerca de simplificado",
+  "tag": "v32",
   "exe": "CajaMeryJane.exe"
 }
