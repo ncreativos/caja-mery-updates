@@ -1,7 +1,7 @@
 {
-  "version": 32,
-  "sha256": "2ae0ae3da7efa19a7ac2f62866f1ab5a91a6d4940d24a92bbe6f90f1b3bd0c6f",
-  "notas": "v32: botones de Ventas en 2 filas, PediFacil como primer boton de Delivery, y Acerca de simplificado",
-  "tag": "v32",
+  "version": 33,
+  "sha256": "2fab22b328dbccfd99a2c6713dd84c7022da7d15d7a8bd61c0f4be78ea8e2031",
+  "notas": "v33: retiro de caja externa sin codigo de autorizacion (aviso por Telegram queda igual) + pago MIXTO en pedidos PediFacil (efectivo + transferencia, cada parte cuenta en su lado)",
+  "tag": "v33",
   "exe": "CajaMeryJane.exe"
 }
