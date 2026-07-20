@@ -1,7 +1,7 @@
 {
-  "version": 33,
-  "sha256": "2fab22b328dbccfd99a2c6713dd84c7022da7d15d7a8bd61c0f4be78ea8e2031",
-  "notas": "v33: retiro de caja externa sin codigo de autorizacion (aviso por Telegram queda igual) + pago MIXTO en pedidos PediFacil (efectivo + transferencia, cada parte cuenta en su lado)",
-  "tag": "v33",
+  "version": 34,
+  "sha256": "c011e9f5ed677e0e0b2d39c1d510b74cfb5ea636a86275aaa806eddad1caf5ac",
+  "notas": "v34: NUEVO MODULO DE SUPERVISION - pestana con clave propia (SuperMery123, cambiable desde la app o por Telegram con /clave_supervisor): control de turnos (apertura/cierre, teorico, caja externa, diferencias y comparacion con lo dejado por el turno anterior), retiros de caja externa con responsable y motivo, detalle de movimientos con apartados de anulados/cancelados/descartados, pedidos descartados, diferencias y novedades. Avisos por Telegram al supervisor (accesos, anulaciones, descartes, retiros, cierres, aperturas que no coinciden) + PDF de cierre sin total de facturacion. Seccion SUPERVISION en los reportes y balances existentes.",
+  "tag": "v34",
   "exe": "CajaMeryJane.exe"
 }
