@@ -1,7 +1,7 @@
 {
-  "version": 34,
-  "sha256": "c011e9f5ed677e0e0b2d39c1d510b74cfb5ea636a86275aaa806eddad1caf5ac",
-  "notas": "v34: NUEVO MODULO DE SUPERVISION - pestana con clave propia (SuperMery123, cambiable desde la app o por Telegram con /clave_supervisor): control de turnos (apertura/cierre, teorico, caja externa, diferencias y comparacion con lo dejado por el turno anterior), retiros de caja externa con responsable y motivo, detalle de movimientos con apartados de anulados/cancelados/descartados, pedidos descartados, diferencias y novedades. Avisos por Telegram al supervisor (accesos, anulaciones, descartes, retiros, cierres, aperturas que no coinciden) + PDF de cierre sin total de facturacion. Seccion SUPERVISION en los reportes y balances existentes.",
-  "tag": "v34",
+  "version": 35,
+  "sha256": "253d6518411d8bd88ceb7349fc50bca48b0b2d148cf807d428df241cabd4c560",
+  "notas": "v35 - Salon: destraba mesas que quedaron abiertas en un turno anterior. Al abrir una mesa que figura libre en el plano pero seguia abierta en un turno ya cerrado, ahora se cierra sola y se abre la nueva en vez de tirar 'La Mesa N ya esta abierta'. Incluye script destrabar_mesas.py para limpiar mesas fantasma viejas.",
+  "tag": "v35",
   "exe": "CajaMeryJane.exe"
 }
