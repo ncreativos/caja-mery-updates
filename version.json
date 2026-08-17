@@ -1,7 +1,7 @@
 {
-  "version": 35,
-  "sha256": "253d6518411d8bd88ceb7349fc50bca48b0b2d148cf807d428df241cabd4c560",
-  "notas": "v35 - Salon: destraba mesas que quedaron abiertas en un turno anterior. Al abrir una mesa que figura libre en el plano pero seguia abierta en un turno ya cerrado, ahora se cierra sola y se abre la nueva en vez de tirar 'La Mesa N ya esta abierta'. Incluye script destrabar_mesas.py para limpiar mesas fantasma viejas.",
-  "tag": "v35",
+  "version": 36,
+  "sha256": "6395ca82afb2015dcc729f6bac9a056b6ce4b31d9e2e658ca750c2137de38a94",
+  "notas": "Fix: los extras ahora se cobran por la cantidad cargada (antes cobraba uno solo). Corregido en mostrador (PC y celular), mesas y tablet del salon; la tablet ahora permite elegir cantidad de extras.",
+  "tag": "v36",
   "exe": "CajaMeryJane.exe"
 }
