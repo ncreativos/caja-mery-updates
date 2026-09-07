@@ -1,7 +1,7 @@
 {
-  "version": 36,
-  "sha256": "6395ca82afb2015dcc729f6bac9a056b6ce4b31d9e2e658ca750c2137de38a94",
-  "notas": "Fix: los extras ahora se cobran por la cantidad cargada (antes cobraba uno solo). Corregido en mostrador (PC y celular), mesas y tablet del salon; la tablet ahora permite elegir cantidad de extras.",
-  "tag": "v36",
+  "version": 37,
+  "sha256": "5c04344f9ad208706e0b6e43da46d8a926bc699a044d6d96d3b16727d0ec00ad",
+  "notas": "Fix: no se duplican mas los cobros ni las comandas. Cerrar mesa y cobrar mostrador ya no registran la venta dos veces si se toca dos veces el boton (ademas chequea en la base que la mesa no este ya cobrada). La comanda de mostrador no se repite sola si ya se imprimio. A la cocina va SOLO lo nuevo de cada mesa, no toda la mesa de vuelta. Nuevo: desde el celular de los mozos se pueden editar los extras y la cantidad de un item ya cargado, o sacarlo de la mesa.",
+  "tag": "v37",
   "exe": "CajaMeryJane.exe"
 }
