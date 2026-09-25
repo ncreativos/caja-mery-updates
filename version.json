@@ -1,7 +1,7 @@
 {
-  "version": 37,
-  "sha256": "5c04344f9ad208706e0b6e43da46d8a926bc699a044d6d96d3b16727d0ec00ad",
-  "notas": "Fix: no se duplican mas los cobros ni las comandas. Cerrar mesa y cobrar mostrador ya no registran la venta dos veces si se toca dos veces el boton (ademas chequea en la base que la mesa no este ya cobrada). La comanda de mostrador no se repite sola si ya se imprimio. A la cocina va SOLO lo nuevo de cada mesa, no toda la mesa de vuelta. Nuevo: desde el celular de los mozos se pueden editar los extras y la cantidad de un item ya cargado, o sacarlo de la mesa.",
-  "tag": "v37",
+  "version": 38,
+  "sha256": "31f0a2c0ff5739fbe4ab3add0b6fe4fb8fd194a49e2700202db40b51c3568caf",
+  "notas": "Anti-robo: se sacaron todos los botones de reimprimir comanda y ticket (mostrador, mesas, historial, PediFacil y celular de mozos). La comanda y el ticket se imprimen una sola vez. Para reimprimir: pestana Ventas > Reimprimir, pide la clave de encargado y el nombre de quien autoriza; lo reimpreso sale con el cartel REIMPRESION. Cada reimpresion queda registrada, se avisa al supervisor y aparece en el PDF de cierre de turno y en las balanzas diaria, semanal y mensual.",
+  "tag": "v38",
   "exe": "CajaMeryJane.exe"
 }
