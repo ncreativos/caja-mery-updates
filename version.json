@@ -1,7 +1,7 @@
 {
-  "version": 38,
-  "sha256": "31f0a2c0ff5739fbe4ab3add0b6fe4fb8fd194a49e2700202db40b51c3568caf",
-  "notas": "Anti-robo: se sacaron todos los botones de reimprimir comanda y ticket (mostrador, mesas, historial, PediFacil y celular de mozos). La comanda y el ticket se imprimen una sola vez. Para reimprimir: pestana Ventas > Reimprimir, pide la clave de encargado y el nombre de quien autoriza; lo reimpreso sale con el cartel REIMPRESION. Cada reimpresion queda registrada, se avisa al supervisor y aparece en el PDF de cierre de turno y en las balanzas diaria, semanal y mensual.",
-  "tag": "v38",
+  "version": 39,
+  "sha256": "9389be25ccf6e39d005265389445f593d99de2dd5ea5117c71c8e9cac299d4fa",
+  "notas": "Se sacaron TODOS los botones de imprimir comanda y ticket: mostrador (la comanda sale sola al guardar o cobrar, el ticket al cobrar), cobro de mesa (el ticket sale al cobrar) y el boton Ticket del celular de los mozos. El unico lugar para reimprimir es Ventas > Reimprimir, con clave de encargado; queda registrado en el cierre de turno y las balanzas.",
+  "tag": "v39",
   "exe": "CajaMeryJane.exe"
 }
