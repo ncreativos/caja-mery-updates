@@ -1,7 +1,7 @@
 {
-  "version": 39,
-  "sha256": "9389be25ccf6e39d005265389445f593d99de2dd5ea5117c71c8e9cac299d4fa",
-  "notas": "Se sacaron TODOS los botones de imprimir comanda y ticket: mostrador (la comanda sale sola al guardar o cobrar, el ticket al cobrar), cobro de mesa (el ticket sale al cobrar) y el boton Ticket del celular de los mozos. El unico lugar para reimprimir es Ventas > Reimprimir, con clave de encargado; queda registrado en el cierre de turno y las balanzas.",
-  "tag": "v39",
+  "version": 40,
+  "sha256": "5c3742df1f9d2e842cc56e76ce139816d937ff50253ab6c42e02b225420706ed",
+  "notas": "PRUEBA. Anular venta ahora pide el motivo: 1) el cliente cambia el metodo de pago (se corrige el pago sin anular y avisa por Telegram), 2) pedido cancelado (captura y/o explicacion, va a Telegram con la foto), 3) otro motivo. Las anulaciones con su captura y los cambios de pago salen en el PDF de cierre de turno y en las balanzas. Cobro de mesa: boton Ticket cliente (una sola vez, dice TICKET CLIENTE) y al cobrar sale el TICKET FINAL PAGADO.",
+  "tag": "v40",
   "exe": "CajaMeryJane.exe"
 }
