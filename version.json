@@ -1,7 +1,7 @@
 {
-  "version": 41,
-  "sha256": "5ef777975a6e4e87696530316a818c246222e798eae4f4b761c3897b9c5bda69",
-  "notas": "v41: Mercado Pago (cobro con QR en mostrador y mesas + QR en el ticket de mesa), aviso de pedidos demorados (35 y 45 min, Windows + Telegram), items eliminados quedan tachados y registrados, cobro Gratis solo con aprobacion por Telegram, mesa no cierra si el pago no coincide, sin descartes de pendientes (se anulan con motivo), sin descuentos despues del ticket, config de Telegram con clave, clave de red, actualizador mas robusto.",
-  "tag": "v41",
+  "version": 42,
+  "sha256": "5113b20847c892e172bde6c9870e59c2e2540bfe80afe9c214971ebbf172ea99",
+  "notas": "v42: arreglo del pago doble al cobrar una mesa pagada con el QR del ticket (el pago del QR reemplaza al cargado a mano). Con el cobro de mesa abierto, si el cliente paga con el QR del ticket se registra y la ventana se cierra sola.",
+  "tag": "v42",
   "exe": "CajaMeryJane.exe"
 }
