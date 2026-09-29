@@ -1,7 +1,7 @@
 {
-  "version": 40,
-  "sha256": "5c3742df1f9d2e842cc56e76ce139816d937ff50253ab6c42e02b225420706ed",
-  "notas": "PRUEBA. Anular venta ahora pide el motivo: 1) el cliente cambia el metodo de pago (se corrige el pago sin anular y avisa por Telegram), 2) pedido cancelado (captura y/o explicacion, va a Telegram con la foto), 3) otro motivo. Las anulaciones con su captura y los cambios de pago salen en el PDF de cierre de turno y en las balanzas. Cobro de mesa: boton Ticket cliente (una sola vez, dice TICKET CLIENTE) y al cobrar sale el TICKET FINAL PAGADO.",
-  "tag": "v40",
+  "version": 41,
+  "sha256": "5ef777975a6e4e87696530316a818c246222e798eae4f4b761c3897b9c5bda69",
+  "notas": "v41: Mercado Pago (cobro con QR en mostrador y mesas + QR en el ticket de mesa), aviso de pedidos demorados (35 y 45 min, Windows + Telegram), items eliminados quedan tachados y registrados, cobro Gratis solo con aprobacion por Telegram, mesa no cierra si el pago no coincide, sin descartes de pendientes (se anulan con motivo), sin descuentos despues del ticket, config de Telegram con clave, clave de red, actualizador mas robusto.",
+  "tag": "v41",
   "exe": "CajaMeryJane.exe"
 }
