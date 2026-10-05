@@ -1,7 +1,7 @@
 {
-  "version": 42,
-  "sha256": "5113b20847c892e172bde6c9870e59c2e2540bfe80afe9c214971ebbf172ea99",
-  "notas": "v42: arreglo del pago doble al cobrar una mesa pagada con el QR del ticket (el pago del QR reemplaza al cargado a mano). Con el cobro de mesa abierto, si el cliente paga con el QR del ticket se registra y la ventana se cierra sola.",
-  "tag": "v42",
+  "version": 43,
+  "sha256": "d7a7362de0f0f5d4ea37869f4851ef18ec4eaeb5f0d2d737f8d4774f4c268ead",
+  "notas": "v43: CLAVES PERSONALES: cada encargada tiene su propia clave (la crea con el boton 'No tengo clave' + un codigo que le llega al dueño por Telegram) y todo cambio queda con su nombre: gastos, adelantos, apertura/cierre de caja, empleados, descuentos, cancelar mesa. PRECIOS: el menu se desbloquea con codigo del dueño, los descuentos piden clave y motivo, alerta si un precio baja y despues vuelve, reporte de ventas por debajo del precio. STOCK: mostrador y PediFacil descuentan la receta + conteo general. CIERRE DE TURNO: no deja cerrar con mesas o pedidos sin cobrar e imprime el ticket para la encargada. EXTRAS: se aclara que se cobran por CADA unidad (pantalla, celular de mozos y ticket). Historial con aprobacion por Telegram, proteccion de la base, boton Destrabar mesas y actualizador mas robusto.",
+  "tag": "v43",
   "exe": "CajaMeryJane.exe"
 }
