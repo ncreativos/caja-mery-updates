@@ -1,7 +1,7 @@
 {
-  "version": 43,
-  "sha256": "d7a7362de0f0f5d4ea37869f4851ef18ec4eaeb5f0d2d737f8d4774f4c268ead",
-  "notas": "v43: CLAVES PERSONALES: cada encargada tiene su propia clave (la crea con el boton 'No tengo clave' + un codigo que le llega al dueño por Telegram) y todo cambio queda con su nombre: gastos, adelantos, apertura/cierre de caja, empleados, descuentos, cancelar mesa. PRECIOS: el menu se desbloquea con codigo del dueño, los descuentos piden clave y motivo, alerta si un precio baja y despues vuelve, reporte de ventas por debajo del precio. STOCK: mostrador y PediFacil descuentan la receta + conteo general. CIERRE DE TURNO: no deja cerrar con mesas o pedidos sin cobrar e imprime el ticket para la encargada. EXTRAS: se aclara que se cobran por CADA unidad (pantalla, celular de mozos y ticket). Historial con aprobacion por Telegram, proteccion de la base, boton Destrabar mesas y actualizador mas robusto.",
-  "tag": "v43",
+  "version": 44,
+  "sha256": "90070191bc63816d158dae6ae11cd98775c41c73be9f2f6d349b6babe2c39192",
+  "notas": "PDF de liquidaciones y gastos del turno (boton en Caja, menu Reportes y /gastos en Telegram); el detalle de gastos y liquidaciones ahora sale en el cierre de turno y en las balanzas diaria, semanal y mensual; las balanzas y la rendicion ya no suman gastos ni liquidaciones anulados; mensajes largos de Telegram se mandan en partes.",
+  "tag": "v44",
   "exe": "CajaMeryJane.exe"
 }
