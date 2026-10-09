@@ -1,7 +1,7 @@
 {
-  "version": 45,
-  "sha256": "0795cfb6f23b19ac41252332b701c2ea8636e3496c2f2ad7e1cae988155ad959",
-  "notas": "v45: San Vicente sin supervisor (la clave de Angel vale como encargado); gratis y TODOS los descuentos se aprueban por Telegram; tiempo de las mesas abiertas; hoja de consumo (hamburguesas, stock usado, sin receta) y todos los medios de pago en cierre y balanza; recetas faltantes; anti-robo: cambio de efectivo a transferencia con comprobante y aprobación, PediFácil con medio cambiado, encargada obligatoria al cobrar, motivo y aviso al sacar algo de cocina, propinas/gastos/stock/viajes con clave, control de panes y sección A VERIFICAR EN EL BANCO",
-  "tag": "v45",
+  "version": 46,
+  "sha256": "f3e0af59e5b8c1ced0a7e8e955780d00c78a13b99fd2e11896856c9685712e9f",
+  "notas": "v46: promos por día y horario que se aplican solas (Stock › Menú › Promos y horarios) + promo del mediodía cargada sola (1.900 de 11 a 15: Lu 1/4 Doble, Ma Big Chicken, Mi Misisipi, Ju Orgullosa, Vi Texana) + cierre de turno sin pregunta de panes si el stock no está contado (cartel con lo usado y lo que falta, aviso al supervisor)",
+  "tag": "v46",
   "exe": "CajaMeryJane.exe"
 }
