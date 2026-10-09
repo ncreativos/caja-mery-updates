@@ -1,7 +1,7 @@
 {
-  "version": 44,
-  "sha256": "90070191bc63816d158dae6ae11cd98775c41c73be9f2f6d349b6babe2c39192",
-  "notas": "PDF de liquidaciones y gastos del turno (boton en Caja, menu Reportes y /gastos en Telegram); el detalle de gastos y liquidaciones ahora sale en el cierre de turno y en las balanzas diaria, semanal y mensual; las balanzas y la rendicion ya no suman gastos ni liquidaciones anulados; mensajes largos de Telegram se mandan en partes.",
-  "tag": "v44",
+  "version": 45,
+  "sha256": "0795cfb6f23b19ac41252332b701c2ea8636e3496c2f2ad7e1cae988155ad959",
+  "notas": "v45: San Vicente sin supervisor (la clave de Angel vale como encargado); gratis y TODOS los descuentos se aprueban por Telegram; tiempo de las mesas abiertas; hoja de consumo (hamburguesas, stock usado, sin receta) y todos los medios de pago en cierre y balanza; recetas faltantes; anti-robo: cambio de efectivo a transferencia con comprobante y aprobación, PediFácil con medio cambiado, encargada obligatoria al cobrar, motivo y aviso al sacar algo de cocina, propinas/gastos/stock/viajes con clave, control de panes y sección A VERIFICAR EN EL BANCO",
+  "tag": "v45",
   "exe": "CajaMeryJane.exe"
 }
