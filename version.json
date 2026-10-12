@@ -1,7 +1,7 @@
 {
-  "version": 47,
-  "sha256": "565d7d41428fcd0358cc51b8e8e066b4d85516845a9f3d4f70d26141b8cb2151",
-  "notas": "v47: tablero web con vista del dueño (stock, conteos, mercadería, promos, descuentos, anulaciones, ítems sacados, precios, eventos) + conteo a ciegas (la encargada no ve lo que tendría que haber; el resultado va al dueño) + mercadería atada al gasto (¿qué entró?) + promos por Telegram (/promos y aprobar pedidos) + pantalla de stock: Contado / Tendría que haber + /stock en el bot",
-  "tag": "v47",
+  "version": 48,
+  "sha256": "13cc1d2c7c1701fc86814da04494a44b80c040759529fef9e24ded78dff5dc86",
+  "notas": "v48: lo que pide autorizacion queda en una cola y la caja sigue trabajando (aprueban los dueños por Telegram o por la web); no se cierra el turno con pedidos sin resolver; comida de empleado: una hamburguesa con comanda y stock; mostrador ya no deja salir pedidos en $0 sin pedirlo",
+  "tag": "v48",
   "exe": "CajaMeryJane.exe"
 }
