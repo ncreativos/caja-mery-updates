@@ -1,7 +1,7 @@
 {
-  "version": 48,
-  "sha256": "13cc1d2c7c1701fc86814da04494a44b80c040759529fef9e24ded78dff5dc86",
-  "notas": "v48: lo que pide autorizacion queda en una cola y la caja sigue trabajando (aprueban los dueños por Telegram o por la web); no se cierra el turno con pedidos sin resolver; comida de empleado: una hamburguesa con comanda y stock; mostrador ya no deja salir pedidos en $0 sin pedirlo",
-  "tag": "v48",
+  "version": 49,
+  "sha256": "a725d7a7edf6450666ccd6b5fbbacd3896649a02af51426e8b58633a8230ffe1",
+  "notas": "v49: Club Mery Jane - en Mostrador el boton Club Mery aplica el descuento con el codigo del celular del cliente (socio del Cultural 15% en una hamburguesa, cumpleanos 50% en un producto, uno por dia en todos los locales, sin pedir autorizacion, pidiendo carnet y DNI); cambio de medio de pago en mostrador y mesa: justificacion obligatoria y captura opcional.",
+  "tag": "v49",
   "exe": "CajaMeryJane.exe"
 }
