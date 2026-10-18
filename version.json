@@ -1,7 +1,7 @@
 {
-  "version": 50,
-  "sha256": "ce61337da89a2c01aba780639d282a6265b8a0799beb09dfce91a657e4b80766",
-  "notas": "Doble comanda opcional: además de la de cocina sale una aparte para la BARRA con tragos y bebidas. Se prende/apaga en Configuración > Comanda: cocina y barra (viene apagada).",
-  "tag": "v50",
+  "version": 51,
+  "sha256": "ffc22c80cf4fc5bffd8a20d68b62d7cc1a6299cbacab2282d1da7cc2c325c0c9",
+  "notas": "Comanda de mesas: despues de medianoche la PC mandaba a cocina un item viejo en vez del nuevo (ahora va por orden de carga). Modo a distancia para la PC del dueno (no cambia nada en los locales).",
+  "tag": "v51",
   "exe": "CajaMeryJane.exe"
 }
