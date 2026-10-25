@@ -1,7 +1,7 @@
 {
-  "version": 52,
-  "sha256": "e1c4f8869bab0e15abca3fa2c2c3a401fe9fe024a834103ccf1317ef5abadfa8",
-  "notas": "Comida de empleado desde el mostrador: 1 hamburguesa gratis por semana sin pedir autorizacion (con clave de la encargada), extras y bebidas se cobran en el mismo pedido y sale una sola comanda. Ventana de PediFacil solo con Encargada y Zona. Caja externa: los empleados solo pasan plata desde la caja; el ingreso directo pide la clave del dueno.",
-  "tag": "v52",
+  "version": 53,
+  "sha256": "e0443dbefdae3b7c428c5eca1b7c13b9661aef4a74e6fab4ba2479366e4a84ce",
+  "notas": "Comida de empleado: hasta 2 medallones gratis (a una hamburguesa simple se le suma un Extra Carne sin cargo; desde el tercer medallon se cobra). Lo demas igual que la v52.",
+  "tag": "v53",
   "exe": "CajaMeryJane.exe"
 }
