@@ -1,7 +1,7 @@
 {
-  "version": 51,
-  "sha256": "ffc22c80cf4fc5bffd8a20d68b62d7cc1a6299cbacab2282d1da7cc2c325c0c9",
-  "notas": "Comanda de mesas: despues de medianoche la PC mandaba a cocina un item viejo en vez del nuevo (ahora va por orden de carga). Modo a distancia para la PC del dueno (no cambia nada en los locales).",
-  "tag": "v51",
+  "version": 52,
+  "sha256": "e1c4f8869bab0e15abca3fa2c2c3a401fe9fe024a834103ccf1317ef5abadfa8",
+  "notas": "Comida de empleado desde el mostrador: 1 hamburguesa gratis por semana sin pedir autorizacion (con clave de la encargada), extras y bebidas se cobran en el mismo pedido y sale una sola comanda. Ventana de PediFacil solo con Encargada y Zona. Caja externa: los empleados solo pasan plata desde la caja; el ingreso directo pide la clave del dueno.",
+  "tag": "v52",
   "exe": "CajaMeryJane.exe"
 }
