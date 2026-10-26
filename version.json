@@ -1,7 +1,7 @@
 {
-  "version": 54,
-  "sha256": "8a22b958f5b18e9be3bb23dbe70afe5a0a3d074c618c18faecb1deeb65948391",
-  "notas": "Sobres de pago: al registrar una liquidacion se puede apartar en un sobre sin registrar el pago (se registra al entregarlo). Boton Sobres en Empleados > Liquidaciones, aviso al cerrar el turno y en el ticket de cierre.",
-  "tag": "v54",
+  "version": 55,
+  "sha256": "0d8f6d531f08dd4481bbfe81269a38dcf74720136da6037ea5bcce626472dafa",
+  "notas": "Pagos de delivery: en la pestana Delivery, viajes por repartidor y zona con precio por zona (lo pone el dueno), lo que se paga por turno, mensaje por Telegram al cerrar el turno, aviso de pedidos sin asignar y zona obligatoria en los viajes sin pedido.",
+  "tag": "v55",
   "exe": "CajaMeryJane.exe"
 }
