@@ -1,7 +1,7 @@
 {
-  "version": 53,
-  "sha256": "e0443dbefdae3b7c428c5eca1b7c13b9661aef4a74e6fab4ba2479366e4a84ce",
-  "notas": "Comida de empleado: hasta 2 medallones gratis (a una hamburguesa simple se le suma un Extra Carne sin cargo; desde el tercer medallon se cobra). Lo demas igual que la v52.",
-  "tag": "v53",
+  "version": 54,
+  "sha256": "8a22b958f5b18e9be3bb23dbe70afe5a0a3d074c618c18faecb1deeb65948391",
+  "notas": "Sobres de pago: al registrar una liquidacion se puede apartar en un sobre sin registrar el pago (se registra al entregarlo). Boton Sobres en Empleados > Liquidaciones, aviso al cerrar el turno y en el ticket de cierre.",
+  "tag": "v54",
   "exe": "CajaMeryJane.exe"
 }
