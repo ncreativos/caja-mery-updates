@@ -1,7 +1,7 @@
 {
-  "version": 55,
-  "sha256": "0d8f6d531f08dd4481bbfe81269a38dcf74720136da6037ea5bcce626472dafa",
-  "notas": "Pagos de delivery: en la pestana Delivery, viajes por repartidor y zona con precio por zona (lo pone el dueno), lo que se paga por turno, mensaje por Telegram al cerrar el turno, aviso de pedidos sin asignar y zona obligatoria en los viajes sin pedido.",
-  "tag": "v55",
+  "version": 56,
+  "sha256": "273e70949b233ee2f6d91509590e3d6c90e98ff1110e6eb66844eda9b2c2f9c2",
+  "notas": "Delivery: la Zona 2 ahora cuenta x1,5 (antes x2) en el resumen de la noche, el cierre por Telegram y el PDF. El viaje sin pedido pide obligatorio el motivo (por que fue sin pedido), en la caja y en el celular; los motivos se ven en Pagos delivery > Viajes sin pedido y en el Telegram de pagos.",
+  "tag": "v56",
   "exe": "CajaMeryJane.exe"
 }
