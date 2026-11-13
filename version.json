@@ -1,7 +1,7 @@
 {
-  "version": 56,
-  "sha256": "273e70949b233ee2f6d91509590e3d6c90e98ff1110e6eb66844eda9b2c2f9c2",
-  "notas": "Delivery: la Zona 2 ahora cuenta x1,5 (antes x2) en el resumen de la noche, el cierre por Telegram y el PDF. El viaje sin pedido pide obligatorio el motivo (por que fue sin pedido), en la caja y en el celular; los motivos se ven en Pagos delivery > Viajes sin pedido y en el Telegram de pagos.",
-  "tag": "v56",
+  "version": 57,
+  "sha256": "50439c877b73af97def9b4c3cbe6b424352bc65489e628be92805f3b95cde17d",
+  "notas": "Combos que se arman solos (Stock > Menú > Promos y horarios > Nuevo combo), buscador en los pedidos, QR para mozos y delivery (Configuración). Mesas: sin turno no se abren, mover mesa conserva la cuenta, las mesas cobradas no se tocan desde el celular y el cierre de turno no borra pedidos.",
+  "tag": "v57",
   "exe": "CajaMeryJane.exe"
 }
