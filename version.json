@@ -1,7 +1,7 @@
 {
-  "version": 57,
-  "sha256": "50439c877b73af97def9b4c3cbe6b424352bc65489e628be92805f3b95cde17d",
-  "notas": "Combos que se arman solos (Stock > Menú > Promos y horarios > Nuevo combo), buscador en los pedidos, QR para mozos y delivery (Configuración). Mesas: sin turno no se abren, mover mesa conserva la cuenta, las mesas cobradas no se tocan desde el celular y el cierre de turno no borra pedidos.",
-  "tag": "v57",
+  "version": 58,
+  "sha256": "5e5cba30386d0207f42d2fd7146d79553956952aaf847f19af52c1078902474d",
+  "notas": "Se puede cerrar el turno con autorizaciones sin resolver (queda registrado en el cierre como no cerrado correctamente) + nuevo medio de pago Posnet Payway con tope, boton y avisos",
+  "tag": "v58",
   "exe": "CajaMeryJane.exe"
 }
