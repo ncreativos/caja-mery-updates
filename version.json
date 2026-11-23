@@ -1,7 +1,7 @@
 {
-  "version": 58,
-  "sha256": "5e5cba30386d0207f42d2fd7146d79553956952aaf847f19af52c1078902474d",
-  "notas": "Se puede cerrar el turno con autorizaciones sin resolver (queda registrado en el cierre como no cerrado correctamente) + nuevo medio de pago Posnet Payway con tope, boton y avisos",
-  "tag": "v58",
+  "version": 59,
+  "sha256": "3354d132dc30676ef05fb8555642f452af6e969a21700f62b5212995b0b3b961",
+  "notas": "v59: pagina de control para la cajera (QR Cajera, entra con su clave y marca cada movimiento como corroborado, sin mostrar el total), propinas sin tildar al liquidar, fecha y hora en todas las comandas y tickets",
+  "tag": "v59",
   "exe": "CajaMeryJane.exe"
 }
