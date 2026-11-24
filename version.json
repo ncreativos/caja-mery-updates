@@ -1,7 +1,7 @@
 {
-  "version": 59,
-  "sha256": "3354d132dc30676ef05fb8555642f452af6e969a21700f62b5212995b0b3b961",
-  "notas": "v59: pagina de control para la cajera (QR Cajera, entra con su clave y marca cada movimiento como corroborado, sin mostrar el total), propinas sin tildar al liquidar, fecha y hora en todas las comandas y tickets",
-  "tag": "v59",
+  "version": 60,
+  "sha256": "33b03094274a16c89f3cebe67d552912759715b5e3ef3c18e8964ba19d68fda8",
+  "notas": "v60: la caja sube una copia de las operaciones (cobros con cuenta de destino, gastos, pagos, cierres) para consultarlas desde el conector de Claude de conciliacion. Solo lectura, sin telefonos ni direcciones.",
+  "tag": "v60",
   "exe": "CajaMeryJane.exe"
 }
